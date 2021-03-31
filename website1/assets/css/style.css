@@ -1,3 +1,26 @@
 body{
     background: #BDBDBD;
 }
+.container-fluid {
+    width: 100%;
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+    margin-right: auto;
+    margin-left: auto;
+}
+.headTop{
+    margin-top: 6%;
+    margin-left: 40%;
+    position: absolute;
+}
+.bg-image{
+    background: url('/website1/assets/img/bg.jpg') no-repeat center center fixed;
+    height: 80vh;
+    width: 100vw;
+
+
+}
+.bg-w{
+    background-color: white;
+}
+            
