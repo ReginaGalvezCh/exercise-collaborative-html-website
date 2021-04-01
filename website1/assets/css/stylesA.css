@@ -1,0 +1,31 @@
+img{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 500px;
+    width: 500px;
+   margin-right: 100px;
+}
+.texto {
+    margin-left: 100px;
+    text-align: left;
+}
+h1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    }
+p {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-left: 10px;
+
+}    
+#a {
+    color:grey
+
+
+}
+
+
